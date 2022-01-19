@@ -1,0 +1,1 @@
+document.write('Esto se escribio con JS');
